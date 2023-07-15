@@ -6,4 +6,9 @@ class Encoder
 	std::string path;	
 	int bit;
 
+	public Encoder()
+	{
+		
+	}
+
 };
