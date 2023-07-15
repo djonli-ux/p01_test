@@ -4,6 +4,7 @@
 class User
 {
 	private:
+		static int max_id = 0;
 		std::string name;
 		int age;
 
