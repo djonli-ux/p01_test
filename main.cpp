@@ -8,5 +8,7 @@ main() {
 	int b = 34;
 	std::cout << a + b << endl;
 
+	std::string email = "vasia@gmail.com";
+
 	return 0;
 }
