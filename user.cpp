@@ -22,7 +22,7 @@ class User
 
 int main()
 {
-	User u("vasia", 12);
+	User u("vasia123", 12);
 	u.Print();
 
 	return 0;

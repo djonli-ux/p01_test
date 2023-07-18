@@ -9,7 +9,7 @@ main() {
 
 	std::cout << a + b << endl;
 
-	std::string email = "vasia@gmail.com";
+	std::string email = "1vasia@gmail.com";
 
 	return 0;
 }
