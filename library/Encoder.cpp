@@ -6,9 +6,10 @@ class Encoder
 	std::string path;	
 	int bit;
 
-	public Encoder()
+	public Encoder(string path, int bit)
 	{
-		
+		this.bit = bit;
+		this.path = path;
 	}
 
 };
