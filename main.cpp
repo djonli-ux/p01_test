@@ -11,5 +11,7 @@ main() {
 
 	std::string email = "1vasia@gmail.com";
 
+	int age = 32;
+
 	return 0;
 }

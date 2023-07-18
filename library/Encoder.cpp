@@ -12,4 +12,10 @@ class Encoder
 		this.path = path;
 	}
 
+	public PrintInfo()
+	{
+
+		std::cout << "Bit amount: " << bit << "\n Path: " << path << endl; 
+	}
+
 };
