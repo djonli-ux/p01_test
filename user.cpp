@@ -16,6 +16,7 @@ class User
 
 	public void Print()
 	{
+		std::cout << endl;
 		std::cout << name << "/t" << age << endl;
 	}
 };
